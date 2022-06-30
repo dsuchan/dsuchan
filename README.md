@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dsuchan
 - 👀 I work as a front-end developer
-- 🌱 I’m currently learning Vue.js
+- 🌱 Vue, React
